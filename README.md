@@ -14,3 +14,4 @@ Growtopia can be dumped with kernel mode dumper.
 # Credits
 https://github.com/Mattiwatti/EfiGuard for the dse disabler <br>
 https://github.com/EquiFox/KsDumper for the kernel mode dumper
+https://github.com/mrexodia/TitanHide for the installation method
