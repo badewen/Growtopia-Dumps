@@ -8,6 +8,9 @@ Growtopia can be dumped with kernel mode dumper.
  - run this command to start the driver (service? dumper?) `sc start KsDumper`
  - profit
 
+# Limitations
+- cant be run (well, you are going to use this for static analysis dont you?)
+
 # Credits
 https://github.com/Mattiwatti/EfiGuard for the dse disabler <br>
 https://github.com/EquiFox/KsDumper for the kernel mode dumper
