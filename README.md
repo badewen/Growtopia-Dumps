@@ -15,7 +15,7 @@ There are 2 methods for dumping <br><br>
    - profit
 
 # Limitations
-- cant be run (well, you are going to use this for static analysis dont you?)
+- cant be run (well, you are going to use this for static code analysis dont you?)
 
 # Credits
 https://github.com/Mattiwatti/EfiGuard <br>
