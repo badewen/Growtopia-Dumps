@@ -18,6 +18,7 @@ There are 2 methods for dumping <br><br>
 - cant be run (well, you are going to use this for static analysis dont you?)
 
 # Credits
-https://github.com/Mattiwatti/EfiGuard for the dse disabler <br>
-https://github.com/EquiFox/KsDumper for the kernel mode dumper <br>
-https://github.com/mrexodia/TitanHide for the installation method
+https://github.com/Mattiwatti/EfiGuard <br>
+https://github.com/EquiFox/KsDumper <br>
+https://github.com/mastercodeon314/KsDumper-11 <br>
+https://github.com/mrexodia/TitanHide 
