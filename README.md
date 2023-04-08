@@ -2,12 +2,12 @@
 Growtopia can be dumped with kernel mode dumper.
 
 # How to dump 
-There are 2 methods for dumping
-  # First method (easiest)
+There are 2 methods for dumping <br><br>
+   <b> First method (easiest) </b>
    - run [KsDumper11](https://github.com/mastercodeon314/KsDumper-11)
-   - profit
+   - profit <br><br>
    
-  # Second method (last resort)
+   <b> Second method (last resort) </b>
    - use [EfiGuard](https://github.com/Mattiwatti/EfiGuard) to disable the DSE (further details is in the EfiGuard repos)
    - copy KsDumperDriver.sys from [KsDumper](https://github.com/EquiFox/KsDumper) to C:\Windows\System32\drivers
    - run the command `sc create KsDumper binPath= %systemroot%\system32\drivers\KsDumperDriver.sys type= kernel` to install the driver (or service)
