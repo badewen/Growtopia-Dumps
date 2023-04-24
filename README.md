@@ -1,5 +1,6 @@
 # Growtopia-Dumps
-Growtopia can be dumped with kernel mode dumper.
+Growtopia can be dumped with kernel mode dumper. <br>
+<sub><sup>you might find azure secret keys inside these string dumps</sup></sub>
 
 # How to dump 
 There are 2 methods for dumping <br><br>
